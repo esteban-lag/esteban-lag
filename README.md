@@ -1,16 +1,13 @@
-## Hi there 👋
+# Esteban Laguinge
 
-<!--
-**esteban-lag/esteban-lag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería Informática en la Universidad Europea de Madrid. Nacido en Argentina, criado en Honduras, viviendo en Madrid. Interesado en Inteligencia Artificial y Machine Learning aplicados a entornos empresariales.
 
-Here are some ideas to get you started:
+# Stack
+Java, Python, SQL, MySQL, MariaDB, Xampp, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Proyectos
+- [Check-It](link) — Sistema de monitoreo IoT multi-sensor con Python (PySide6), MySQL y ESP32. Maqueta fisica aparte vinculada al proyecto
+
+# Contacto
+- estebandamianlag@gmail.com
+- LinkedIn: https://www.linkedin.com/in/esteban-damián-laguinge-955674337/
